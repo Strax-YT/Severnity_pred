@@ -1,0 +1,11 @@
+Drug,Category,CGHS_Code,Patients,% of Total,Cost_per_unit_₹,Unit,Total_cost_₹
+DICLOFENAC,NSAID,DRG007,103,12.0%,5,tablet,515
+AMOXICILLIN,Antibiotic,DRG002,94,11.0%,15,capsule,1410
+INSULIN,Anti-diabetic,DRG006,89,10.4%,300,vial,26700
+OMEPRAZOLE,PPI,DRG008,88,10.3%,10,capsule,880
+PARACETAMOL,Analgesic,DRG001,86,10.0%,2,tablet,172
+CEFTRIAXONE,Antibiotic,DRG009,83,9.7%,150,vial,12450
+SALBUTAMOL,Bronchodilator,DRG010,82,9.6%,50,inhaler,4100
+METFORMIN,Anti-diabetic,DRG003,82,9.6%,3,tablet,246
+CIPROFLOXACIN,Antibiotic,DRG005,80,9.3%,20,tablet,1600
+ATENOLOL,Beta-blocker,DRG004,69,8.1%,5,tablet,345
